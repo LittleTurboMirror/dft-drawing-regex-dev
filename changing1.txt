@@ -3,7 +3,7 @@
 
 Structure put out
 
-()
+
 |
 (?:
 (Z)
