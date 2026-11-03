@@ -3,6 +3,7 @@
 
 Structure put out
 
+(\d+
 (?:
 (Z)
 |
